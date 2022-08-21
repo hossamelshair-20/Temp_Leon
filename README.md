@@ -1,2 +1,2 @@
 # Temp_Leon
-Design resbonsive use HTML &amp; CSS
+Convert Leon template PSD to resbonsive website using HTML &amp; CSS Only
